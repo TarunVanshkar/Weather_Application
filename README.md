@@ -1,5 +1,7 @@
 ![image](https://github.com/TarunVanshkar/Weather_Application/assets/117818351/5b0d26d0-b3ff-4530-ac4b-abd47578ef98)
 
+Deployed Link :- https://react-weather-application-tarun.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
